@@ -2,7 +2,7 @@
 
 <h2>Project Agenda: To perform functional testing on an e-commerce web application using the test automation tool Selenium and TestNG</h2>
 
-PLEASE NOTE: This is only the tests for detailed scenario 2 (with Cucumber, JUnit and Page Object Model)
+PLEASE NOTE: This is only the tests for detailed scenario 2 (with Selenium, TestNG and Page Object Model)
 
 Description:<br>
 As part of this project, you must clone the below e-commerce application:<br>
